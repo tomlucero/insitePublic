@@ -1,0 +1,276 @@
+<!--TOP SECTION - ADDED TO ALL -->
+<nav class="navbar-wrapper navbar-default header-one">
+<!--THIS IS THE ALERT SECTION. TO TAKE IT DOWN, COMMENT OUT THE FIRST AND LAST DIV TAGS. USE THIS ALERT SECTION FOR ITEMS LIKE CLOSURES, ORDER DELAYS, ETC. ALERT COLOR IS SET IN THE RWD GLOBAL STYLE SHEET.-->
+<!--div class="navbar-alert-red">
+<div class="contain">
+<p class="text-center"><strong>CSU BOOKSTORE OPEN MONDAY, JUNE 20: </strong>Colorado State University will be observing Juneteenth on Monday, June 20. The CSU Bookstore will be open normal hours (7:45 am - 5:30 pm) on Monday, June 20, 2022.</p>
+</div>
+</div-->
+<div class="navbar-alert" id="rentalReturnsAlert">
+<div class="contain">
+<div class="row">
+<div class="col-md-8 col-sm-12">
+<div class="media">
+<div class="media-left" style="vertical-align: middle;">
+<h3>OPEN During Construction!</h3>
+<p>The CSU Bookstore is OPEN to serve you during construction! Learn more about the project and preview the big changes coming to the CSU Bookstore and Lory Student Center!</p>
+</div>
+</div>
+</div>
+<div class="col-md-4 col-sm-12">
+<a href="/remodel" class="btn btn-primary btn-large btn-block alertBarButton">See Remodel Details</a>
+<a href="https://lsc.colostate.edu/about-us/lsc-north-end-revitalization-2022/" target="_blank" class="btn btn-primary btn-large btn-block alertBarButton">Learn About the LSC Project</a>
+</div>
+</div>
+</div>
+</div>
+<end>
+<!--END ALERT SECTION-->
+</end>
+<div class="contain">
+<div class="navbar-header">
+<a href="https://www.colostate.edu/" class="navbar-brand">
+<img class="img-responsive visible-md visible-lg" src="https://www.bookstore.colostate.edu/SiteImages/109-SchoolImages/109-NewDesignRD/109-top/109-signature-oneline.svg" alt="CSU Logo" width="380">
+<img style="width: calc(185.366px);" src="https://www.bookstore.colostate.edu/SiteImages/109-SchoolImages/109-NewDesignRD/109-top/109-signature-stacked.svg" class="img-responsive visible-sm" alt="CSU Logo">
+<img style="width: calc(122.581px);" class="img-responsive visible-xs" src="https://www.bookstore.colostate.edu/SiteImages/109-SchoolImages/109-NewDesignRD/109-top/109-signature-mobile.svg" alt="CSU Logo">
+</a>
+</div>
+<a class="bookstore-logo" href="https://www.bookstore.colostate.edu/home">Bookstore</a>
+<ul class="nav navbar-nav navbar-right nav-one hidden-xs">
+    <li>
+    <a href="https://www.bookstore.colostate.edu/registertype?ReturnUrl=/customeraccount">
+    <span class="glyphicon glyphicon-pencil" aria-hidden="true"></span>Register</a>
+    </li>
+    <li>
+    <a href="https://www.bookstore.colostate.edu/login">
+    <span class="glyphicon glyphicon-user" aria-hidden="true"></span>My Account</a>
+    </li>
+    <li>
+    <a href="https://www.bookstore.colostate.edu/shoppingcart">
+    <span class="glyphicon glyphicon-shopping-cart" aria-hidden="true"></span>Cart</a>
+    </li>
+</ul>
+</div>
+</nav>
+<div class="container-fluid header-two">
+<div class="contain">
+<nav class="navbar-wrapper navbar-defualt">
+<div class="navbar-header">
+<button type="button" class="navbar-toggle collapsed pull-left" data-toggle="collapse" data-target="#myNavbar" aria-expanded="false">
+<span class="sr-only">Toggle navigation</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+<div class="social-icons pull-right">
+<a href="https://www.bookstore.colostate.edu/registertype?ReturnUrl=/customeraccount">
+<span aria-hidden="true" class="glyphicon glyphicon-pencil"></span>
+</a>
+<a href="https://www.bookstore.colostate.edu/login.aspx">
+<span aria-hidden="true" class="glyphicon glyphicon-user"></span>
+</a>
+<span style="font-size: 14px; color: #59595b;"><a href="https://www.bookstore.colostate.edu/shoppingcart">
+<span aria-hidden="true" class="glyphicon glyphicon-shopping-cart"></span>
+</a>
+</span></div>
+</div>
+<div id="myNavbar" class="collapse navbar-collapse">
+<ul class="nav navbar-nav">
+    <li class="dropdown">
+    <a aria-expanded="false" aria-haspopup="true" role="button" data-toggle="dropdown" class="dropdown-toggle" href="http://bookstore.colostate.edu/SelectTermDept">Textbooks
+    <span class="caret"></span>
+    </a>
+    <ul class="dropdown-menu">
+        <li>
+        <a href="https://www.bookstore.colostate.edu/textbook-menu">Textbook Menu</a>
+        </li>
+        <li>
+        <a href="https://www.bookstore.colostate.edu/SelectTermDept">Shop For Textbooks</a>
+        </li>
+        <li>
+        <a href="https://www.bookstore.colostate.edu/oer">Open Educational Resources (OER)</a>
+        </li>
+        <li>
+        <a href="https://www.bookstore.colostate.edu/preorder">Textbook Preorder - OPEN FOR FALL 2022</a>
+        </li>
+        <li>
+        <a href="https://www.bookstore.colostate.edu/compare">Comparison Shopping</a>
+        </li>
+        <li>
+        <a href="https://www.bookstore.colostate.edu/veterans">Veteran and Sponsored Student Course Materials</a>
+        </li>
+        <li>
+        <a href="https://www.bookstore.colostate.edu/faculty-adoptions">Faculty Adoptions</a>
+        </li>
+        <li>
+        <a href="https://www.bookstore.colostate.edu/rental-returns">Textbook Rental Return Info</a>
+        </li>
+        <li>
+        <a href="https://www.bookstore.colostate.edu/inclusive">Inclusive Access Course Materials</a>
+        </li>
+        <li>
+        <a href="https://www.bookstore.colostate.edu/buyback">Sell Back</a>
+        </li>
+        <li>
+        <a href="https://www.bookstore.colostate.edu/pickup">Textbook Pick Up Details</a>
+        </li>
+        <li>
+        <a href="https://www.bookstore.colostate.edu/cancel">Cancel Online Order</a>
+        </li>
+    </ul>
+    </li>
+    <li class="dropdown">
+    <a aria-expanded="false" aria-haspopup="true" role="button" data-toggle="dropdown" class="dropdown-toggle" href="https://www.bookstore.colostate.edu/csu-rams-merchandise">Apparel and Gifts
+    <span class="caret"></span>
+    </a>
+    <ul class="dropdown-menu">
+        <li>
+        <a href="https://www.bookstore.colostate.edu/womens">Women's Apparel</a>
+        </li>
+        <li>
+        <a href="https://www.bookstore.colostate.edu/mens">Men's Apparel</a>
+        </li>
+        <li>
+        <a href="https://www.bookstore.colostate.edu/youth">Youth Apparel</a>
+        </li>
+        <li><a href="https://www.bookstore.colostate.edu/shop/alumni/gifts">CSU Alumni Gifts</a>
+        </li>
+        <li>
+        <a href="https://www.bookstore.colostate.edu/shop/merch/hats">CSU Hats</a>
+        </li>
+        <li>
+        <a href="https://www.bookstore.colostate.edu/shop/gifts/decals">CSU Decals</a>
+        </li>
+        <li>
+        <a href="https://www.bookstore.colostate.edu/gifts">CSU Gifts</a>
+        </li>
+        <li>
+        <a href="https://www.bookstore.colostate.edu/shop/gifts/pet-stuff">CSU Pet Accessories</a>
+        </li>
+        <li>
+        <a href="https://www.bookstore.colostate.edu/shop/gifts/gift-wrap">Gift Wrap</a>
+        </li>
+        <li>
+        <a href="https://www.bookstore.colostate.edu/electronics">Electronics</a>
+        </li>
+        <li>
+        <a href="https://www.bookstore.colostate.edu/gift-certificate">Gift Certificates</a>
+        </li>
+        <li>
+        <a href="https://www.bookstore.colostate.edu/shop/gifts/custom-engraved-furniture">Custom Engraved Furniture</a>
+        </li>
+    </ul>
+    </li>
+    <li class="dropdown">
+    <a aria-expanded="false" aria-haspopup="true" role="button" data-toggle="dropdown" class="dropdown-toggle" href="https://www.bookstore.colostate.edu/semester-at-sea">Semester at Sea
+    <span class="caret"></span>
+    </a>
+    <ul class="dropdown-menu">
+        <li>
+        <a href="https://www.bookstore.colostate.edu/semester-at-sea">Semester at Sea</a>
+        </li>
+        <li>
+        <a href="https://www.bookstore.colostate.edu/SelectTermDept">Semester at Sea Textbooks</a>
+        </li>
+        <li>
+        <a href="https://www.bookstore.colostate.edu/MerchList.aspx?ID=30403">SAS Women's Apparel</a>
+        </li>
+        <li>
+        <a href="https://www.bookstore.colostate.edu/MerchList.aspx?ID=30404">SAS Men's Apparel</a>
+        </li>
+        <li>
+        <a href="https://www.bookstore.colostate.edu/shop/semester-at-sea/youth">SAS Youth Apparel</a>
+        </li>
+        <li>
+        <a href="https://www.bookstore.colostate.edu/MerchList.aspx?ID=30472">SAS Gifts</a>
+        </li>
+        <li>
+        <a href="https://www.bookstore.colostate.edu/MerchList.aspx?ID=30523">SAS Supplies</a>
+        </li>
+        <li>
+        <a href="https://www.bookstore.colostate.edu/shop/semester-at-sea/sale">SAS Sale Items</a>
+        </li>
+    </ul>
+    </li>
+    <li class="dropdown">
+    <a aria-expanded="false" aria-haspopup="true" role="button" data-toggle="dropdown" class="dropdown-toggle" href="https://www.bookstore.colostate.edu/trade-books">General Books
+    <span class="caret"></span>
+    </a>
+    <ul class="dropdown-menu">
+        <li>
+        <a href="https://www.bookstore.colostate.edu/trade-books">Shop General Books</a>
+        </li>
+        <li>
+        <a href="https://www.bookstore.colostate.edu/department">General Book Department Sales</a>
+        </li>
+    </ul>
+    </li>
+    <li class="dropdown">
+    <a aria-expanded="false" aria-haspopup="true" role="button" data-toggle="dropdown" class="dropdown-toggle" href="https://www.bookstore.colostate.edu/supplies">Art &amp; Office Supplies
+    <span class="caret"></span>
+    </a>
+    <ul class="dropdown-menu">
+        <li>
+        <a href="https://www.bookstore.colostate.edu/MerchList.aspx?ID=27036">Art Supplies</a>
+        </li>
+        <li>
+        <a href="https://www.bookstore.colostate.edu/supplies">Office Supplies</a>
+        </li>
+        <li>
+        <a href="https://www.bookstore.colostate.edu/electronics">Electronics</a>
+        </li>
+        <li>
+        <a href="https://www.bookstore.colostate.edu/department">Department Orders</a>
+        </li>
+    </ul>
+    </li>
+    <li class="dropdown">
+    <a aria-expanded="false" aria-haspopup="true" role="button" data-toggle="dropdown" class="dropdown-toggle" href="#">Store Info
+    <span class="caret"></span>
+    </a>
+    <ul class="dropdown-menu">
+        <li>
+        <a href="https://www.bookstore.colostate.edu/about-us">About CSU Bookstore</a>
+        </li>
+        <li>
+        <a href="https://www.bookstore.colostate.edu/locations-and-hours">Locations &amp; Hours</a>
+        </li>
+        <li>
+        <a href="https://www.bookstore.colostate.edu/shipping-info">Shipping Policy</a>
+        </li>
+        <li>
+        <a href="https://www.bookstore.colostate.edu/sms">Text Message Alerts</a>
+        </li>
+        <li>
+        <a href="https://www.bookstore.colostate.edu/drop-ship">Drop-Ship Product</a>
+        </li>
+        <li>
+        <a href="https://www.bookstore.colostate.edu/returns-exchanges">Returns and Exchanges</a>
+        </li>
+        <li>
+        <a href="https://www.bookstore.colostate.edu/department">Department Orders</a>
+        </li>
+        <li>
+        <a href="https://www.bookstore.colostate.edu/jobs">Student Employment</a>
+        </li>
+        <li>
+        <a href="https://www.bookstore.colostate.edu/bill">Charging to Your Student Account</a>
+        </li>
+        <li>
+        <a href="https://www.bookstore.colostate.edu/credit-cards">Credit Card Payment Info</a>
+        </li>
+        <li>
+        <a href="https://www.bookstore.colostate.edu/cancel">Cancel Online Order</a>
+        </li>
+        <li>
+        <a href="https://www.bookstore.colostate.edu/contact-us">Contact Us</a>
+        </li>
+    </ul>
+    </li>
+</ul>
+<div class="col-lg-3 col-md-12 col-xs-12 pull-right search-bar max_width270">
+</div>
+</div>
+</nav>
+</div>
+</div>
