@@ -1,0 +1,40 @@
+<script>
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id=GTM-WZ6FVM'+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WZ6FVM');
+</script>
+<noscript>
+<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WZ6FVM"
+height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Antonio:wght@100..700&family=Bodoni+Moda:ital,opsz,wght@0,6..96,400..900;1,6..96,400..900&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://www.bookstore.colostate.edu/StoreFiles/109-SchoolFiles/109-css/109-csu-icons.css">
+<link rel="stylesheet" href="https://www.bookstore.colostate.edu/StoreFiles/109-SchoolFiles/109-css/109-fullWidthHeader.css?v=2025-10-25">
+<link rel="stylesheet" href="https://www.bookstore.colostate.edu/StoreFiles/109-SchoolFiles/109-css/109-csu-mainCSS.css?v=20260723s">
+<link rel="stylesheet" href="https://www.bookstore.colostate.edu/StoreFiles/109-SchoolFiles/109-css/109-csu-custom-components.css?v=20260918b">
+<link rel="stylesheet" href="https://www.bookstore.colostate.edu/StoreFiles/109-SchoolFiles/109-css/109-bk-alerts.css">
+<link rel="stylesheet" href="https://www.bookstore.colostate.edu/StoreFiles/109-SchoolFiles/109-css/109-bk-carousel.css?v=20260710">
+<link rel="stylesheet" href="https://www.bookstore.colostate.edu/StoreFiles/109-SchoolFiles/109-css/109-bk-components.css?v=20260713a">
+<link rel="stylesheet" href="https://www.bookstore.colostate.edu/StoreFiles/109-SchoolFiles/109-css/109-bk-foundation.css?v=20260713a">
+<link rel="stylesheet" href="https://www.bookstore.colostate.edu/StoreFiles/109-SchoolFiles/109-css/109-bk-foundation.css?v=20260713a">
+<link rel="stylesheet" href="https://www.bookstore.colostate.edu/StoreFiles/109-SchoolFiles/109-css/109-bookstore-modal.css?v=20261015">
+<script src="https://kit.fontawesome.com/b65fbcdd34.js" crossorigin="anonymous" defer></script>
+<script src="https://www.bookstore.colostate.edu/StoreFiles/109-SchoolFiles/109-js/109-redirects.js?v=2025-10-25" defer></script>
+<script src="https://www.bookstore.colostate.edu/StoreFiles/109-SchoolFiles/109-js/109-109-bk-evergreen-slides.js?v=1"></script>
+<script src="https://www.bookstore.colostate.edu/StoreFiles/109-SchoolFiles/109-js/109-109-bk-evergreen.js?v=1"></script>
+<script src="https://www.bookstore.colostate.edu/StoreFiles/109-SchoolFiles/109-js/109-109-bk-schedulerv3.js?v=1" defer></script>
+<script src="/StoreFiles/109-SchoolFiles/109-js/109-page-promo-modules.js?v=20260923a"></script>
+<script src="https://www.bookstore.colostate.edu/StoreFiles/109-SchoolFiles/109-js/109-109-bk-carouselv2.js?v=1"></script>
+<script src="https://www.bookstore.colostate.edu/StoreFiles/109-SchoolFiles/109-js/109-random-banner.js?v=20260715" defer></script>
+<script src="https://www.bookstore.colostate.edu/StoreFiles/109-SchoolFiles/109-js/109-alert-bar-control.js?v=20251117a" defer></script>
+<script src="https://www.bookstore.colostate.edu/StoreFiles/109-SchoolFiles/109-js/109-bk-pathways.js" defer></script>
+<script src="https://www.bookstore.colostate.edu/StoreFiles/109-SchoolFiles/109-js/109-bookstore-modal.js?v=20261015" defer></script>
+
+<link rel="stylesheet" href="https://www.bookstore.colostate.edu/StoreFiles/109-SchoolFiles/109-css/109-109-csu-header-refresh.css?v=20260918d">
+<script src="https://www.bookstore.colostate.edu/StoreFiles/109-SchoolFiles/109-js/109-109-csu-header-refresh-compat.js?v=20260918a" defer></script>
+<script src="https://www.bookstore.colostate.edu/StoreFiles/109-SchoolFiles/109-js/109-109-csu-header-refresh.js?v=20260918d" defer></script>
+<script src="https://www.bookstore.colostate.edu/StoreFiles/109-SchoolFiles/109-js/109-109-csu-header-refresh-links.js?v=20260918a" defer></script>
